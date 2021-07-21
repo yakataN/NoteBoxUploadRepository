@@ -1,0 +1,2 @@
+# NoteBoxUploadRepository
+Notebox.jpにアップロードするためのリポジトリです。
